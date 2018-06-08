@@ -1,5 +1,5 @@
 """
-@author: Dominik / (Felix)
+@author: Felix
 Modul zur Erzeugung verschiedener Blenden
 """
 import numpy as np

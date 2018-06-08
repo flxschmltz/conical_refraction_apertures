@@ -231,4 +231,4 @@ def Gitter(arr,r):
 
 # Segmentblende(seg,rmax,rmin=0,phi0=0,alpha=1,x0=304,y0=342)
 
-# save(Segmentblende(4,170,0,np.pi/2,1.8),"test2.bmp")
+save(Segmentblende(4,170,0,np.pi/2,1.8),"test2.bmp")

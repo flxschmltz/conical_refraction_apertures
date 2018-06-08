@@ -224,7 +224,7 @@ def Gitter(arr,r):
 
 
 # Vollblende(0,170,20,"./aperture_open close/")
-rotate(8,48,4*np.pi)
+# rotate(8,48,4*np.pi)
 
 
 # save(Segmentblende(2,170,0,np.pi/2,1.8),"test.bmp")

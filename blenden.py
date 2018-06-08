@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 """
 @author: Dominik / (Felix)
 Modul zur Erzeugung verschiedener Blenden
